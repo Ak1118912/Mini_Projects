@@ -4,7 +4,7 @@ This repository features a collection of beginner-friendly mini projects, with a
 ## Getting Started
 
 1. Clone this repository:
-git clone https://github.com/Ak1118912/Mini-Projects.git
+git clone https://github.com/Ak1118912/Mini_Projects.git
 
 2. Navigate to the project folder of your choice.
 3. Follow the instructions in each project’s folder or notebook to install dependencies and run the code.
